@@ -122,3 +122,12 @@ Temporary Items
 *.xhtml
 
 src/main/resources/
+
+# Gradle 전부 무시
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+build.gradle
